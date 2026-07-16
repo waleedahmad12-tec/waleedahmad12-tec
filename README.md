@@ -73,8 +73,7 @@ A responsive image gallery with filtering, lightbox, and smooth animations.
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/waleedahmad12-tec
-* LinkedIn:# Hi there, I'm Waleed Ahmad 👋
-
+* LinkedIn:#www.linkedin.com/in/waleed-ahmad-95617740b
 ### 💻 Software Engineering Student | Frontend Developer
 
 I'm a Software Engineering student passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into interactive websites using modern frontend technologies and continuously improving my development skills.
