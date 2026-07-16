@@ -1,4 +1,4 @@
-# Hi there, I'm Waleed Ahmad 👋
+#  I'm Waleed Ahmad 👋
 
 ### 💻 Software Engineering Student | Frontend Developer
 
