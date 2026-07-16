@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there, I'm Waleed Ahmad 👋
 
-<!--
-**waleedahmad12-tec/waleedahmad12-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Student | Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building clean, responsive, and user-friendly web applications. I enjoy turning ideas into interactive websites using modern frontend technologies and continuously improving my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🎓 Software Engineering Student
+* 🌱 Currently learning **JavaScript, React, and AI**
+* 💡 Interested in Frontend Development & Modern Web Technologies
+* 🎯 Goal: Become a Professional Full-Stack Developer
+* 📍 Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6)
+
+### Programming
+
+* Python
+* C++
+* java
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🌙 Asmaul Husna – 99 Names of Allah
+
+An interactive web application featuring the 99 Names of Allah with:
+
+* Search functionality
+* Favorite system
+* Audio pronunciation
+* Dark/Light mode
+* Responsive design
+* Local Storage support
+
+### 🧮 Calculator
+
+A modern and responsive calculator built using HTML, CSS, and JavaScript.
+
+### 🖼️ Image Gallery
+
+A responsive image gallery with filtering, lightbox, and smooth animations.
+
+---
+
+## 📚 Currently Learning
+
+* React.js
+* Node.js
+* AI Fundamentals
+* Git & GitHub Best Practices
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/waleedahmad12-tec
+* LinkedIn: YOUR-LINKEDIN-URL
+* Email: YOUR-EMAIL
+
+---
+
+⭐ Thanks for visiting my profile!
+I'm always learning, building, and improving my skills.
