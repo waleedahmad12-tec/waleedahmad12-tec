@@ -153,7 +153,7 @@ A responsive image gallery with filtering, lightbox, and smooth animations.
 ⭐ Thanks for visiting my profile!
 I'm always learning, building, and improving my skills.
 
-* Email: YOUR-EMAIL
+* Email:moonahmad223957@gmail.com
 
 ---
 
